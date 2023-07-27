@@ -1,4 +1,4 @@
-import { Menu, Video, Bell, Keyboard, Search, Mic, Home as HomeIcon, PlaySquare, Clock, ThumbsUp, ChevronDown, Youtube, MonitorPlay, RotateCcw, Zap, Flame, BadgeCheck, MoreVertical} from "lucide-react"
+import { Menu, Video, Bell, Keyboard, Search, Mic, Home as HomeIcon, PlaySquare, Clock, ThumbsUp, ChevronDown, Youtube, MonitorPlay, RotateCcw, Zap, Flame, CheckCircle2, MoreVertical} from "lucide-react"
 import SidebarBottom from '@/components/SidebarBottom'
 import AsideMenu from "@/components/AsideMenu"
 
@@ -160,7 +160,7 @@ export default function Home() {
                           </div>
                           <div className="flex gap-1 text-zinc-400 font-medium text-sm">
                             Cortes do Casimito
-                            <BadgeCheck size="20" className="mt-[-.2px]"/>
+                            <CheckCircle2 size="14" className="mt-[3px]"/>
                           </div>
                           <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
                           26 mi de visualizações • há 2 dias
@@ -181,7 +181,7 @@ export default function Home() {
                           </div>
                           <div className="flex gap-1 text-zinc-400 font-medium text-sm">
                             Rocketseat
-                            <BadgeCheck size="20" className="mt-[-.2px]"/>
+                            <CheckCircle2 size="14" className="mt-[3px]"/>
                           </div>
                           <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
                           86 mil de visualizações • há 2 meses
@@ -202,7 +202,7 @@ export default function Home() {
                           </div>
                           <div className="flex gap-1 text-zinc-400 font-medium text-sm">
                           Cortes do Casimito
-                            <BadgeCheck size="20" className="mt-[-.2px]"/>
+                            <CheckCircle2 size="14" className="mt-[3px]"/>
                           </div>
                           <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
                           254 mi de visualizações • há 2 dias
@@ -223,7 +223,7 @@ export default function Home() {
                           </div>
                           <div className="flex gap-1 text-zinc-400 font-medium text-sm">
                             Podpah
-                            <BadgeCheck size="20" className="mt-[-.2px]"/>
+                            <CheckCircle2 size="14" className="mt-[3px]"/>
                           </div>
                           <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
                           112 mil de visualizações • há 1 dia
@@ -244,7 +244,7 @@ export default function Home() {
                           </div>
                           <div className="flex gap-1 text-zinc-400 font-medium text-sm">
                             Podpah
-                            <BadgeCheck size="20" className="mt-[-.2px]"/>
+                            <CheckCircle2 size="14" className="mt-[3px]"/>
                           </div>
                           <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
                           112 mil de visualizações • há 1 dia
@@ -265,7 +265,7 @@ export default function Home() {
                           </div>
                           <div className="flex gap-1 text-zinc-400 font-medium text-sm">
                             Rocketseat
-                            <BadgeCheck size="20" className="mt-[-.2px]"/>
+                            <CheckCircle2 size="14" className="mt-[3px]"/>
                           </div>
                           <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
                           86 mil de visualizações • há 2 meses
@@ -286,7 +286,7 @@ export default function Home() {
                           </div>
                           <div className="flex gap-1 text-zinc-400 font-medium text-sm">
                           Cortes do Casimito
-                            <BadgeCheck size="20" className="mt-[-.2px]"/>
+                            <CheckCircle2 size="14" className="mt-[3px]"/>
                           </div>
                           <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
                           254 mi de visualizações • há 2 dias
@@ -327,7 +327,7 @@ export default function Home() {
                           </div>
                           <div className="flex gap-1 text-zinc-400 font-medium text-sm">
                             Cortes do Casimito
-                            <BadgeCheck size="20" className="mt-[-.2px]"/>
+                            <CheckCircle2 size="14" className="mt-[3px]"/>
                           </div>
                           <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
                           26 mi de visualizações • há 2 dias
@@ -368,7 +368,7 @@ export default function Home() {
                           </div>
                           <div className="flex gap-1 text-zinc-400 font-medium text-sm">
                             Cortes do Casimito
-                            <BadgeCheck size="20" className="mt-[-.2px]"/>
+                            <CheckCircle2 size="14" className="mt-[3px]"/>
                           </div>
                           <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
                           26 mi de visualizações • há 2 dias
@@ -389,7 +389,7 @@ export default function Home() {
                           </div>
                           <div className="flex gap-1 text-zinc-400 font-medium text-sm">
                             Podpah
-                            <BadgeCheck size="20" className="mt-[-.2px]"/>
+                            <CheckCircle2 size="14" className="mt-[3px]"/>
                           </div>
                           <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
                           112 mil de visualizações • há 1 dia
@@ -410,7 +410,7 @@ export default function Home() {
                           </div>
                           <div className="flex gap-1 text-zinc-400 font-medium text-sm">
                             Rocketseat
-                            <BadgeCheck size="20" className="mt-[-.2px]"/>
+                            <CheckCircle2 size="14" className="mt-[3px]"/>
                           </div>
                           <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
                           86 mil de visualizações • há 2 meses
@@ -431,7 +431,7 @@ export default function Home() {
                           </div>
                           <div className="flex gap-1 text-zinc-400 font-medium text-sm">
                           Cortes do Casimito
-                            <BadgeCheck size="20" className="mt-[-.2px]"/>
+                            <CheckCircle2 size="14" className="mt-[3px]"/>
                           </div>
                           <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
                           254 mi de visualizações • há 2 dias
@@ -472,7 +472,7 @@ export default function Home() {
                           </div>
                           <div className="flex gap-1 text-zinc-400 font-medium text-sm">
                             Cortes do Casimito
-                            <BadgeCheck size="20" className="mt-[-.2px]"/>
+                            <CheckCircle2 size="14" className="mt-[3px]"/>
                           </div>
                           <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
                           26 mi de visualizações • há 2 dias
@@ -493,7 +493,7 @@ export default function Home() {
                           </div>
                           <div className="flex gap-1 text-zinc-400 font-medium text-sm">
                             Rocketseat
-                            <BadgeCheck size="20" className="mt-[-.2px]"/>
+                            <CheckCircle2 size="14" className="mt-[3px]"/>
                           </div>
                           <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
                           86 mil de visualizações • há 2 meses
@@ -514,7 +514,7 @@ export default function Home() {
                           </div>
                           <div className="flex gap-1 text-zinc-400 font-medium text-sm">
                           Cortes do Casimito
-                            <BadgeCheck size="20" className="mt-[-.2px]"/>
+                            <CheckCircle2 size="14" className="mt-[3px]"/>
                           </div>
                           <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
                           254 mi de visualizações • há 2 dias
@@ -535,7 +535,7 @@ export default function Home() {
                           </div>
                           <div className="flex gap-1 text-zinc-400 font-medium text-sm">
                             Podpah
-                            <BadgeCheck size="20" className="mt-[-.2px]"/>
+                            <CheckCircle2 size="14" className="mt-[3px]"/>
                           </div>
                           <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
                           112 mil de visualizações • há 1 dia
