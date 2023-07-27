@@ -1,4 +1,4 @@
-import { Menu, Video, Bell, Keyboard, Search, Mic, Home as HomeIcon, PlaySquare, Clock, ThumbsUp, ChevronDown, Youtube, MonitorPlay, RotateCcw, Zap, Flame, BadgeCheck} from "lucide-react"
+import { Menu, Video, Bell, Keyboard, Search, Mic, Home as HomeIcon, PlaySquare, Clock, ThumbsUp, ChevronDown, Youtube, MonitorPlay, RotateCcw, Zap, Flame, BadgeCheck, MoreVertical} from "lucide-react"
 import SidebarBottom from '@/components/SidebarBottom'
 import AsideMenu from "@/components/AsideMenu"
 
@@ -123,12 +123,16 @@ export default function Home() {
                 </div>
                 <div className="bg-zinc-950 text-zinc-100 mr-12">
                   <div className="grid grid-cols-5 gap-4 mt-4 ml-8">
-                    <a href="#" className='rounded gap-4'>
+                    {/* Aqui começa um vídeo */}
+                    <a href="#" className='rounded gap-4 group'>
                       <img className="rounded-xl" src="/thumb2.png" width={500} height={500} alt="VideoThumb"/>
                       <div className="flex gap-2 mt-3">
                         <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
                         <div className="">
-                          <strong>HOW TO TALK TO A BABY.</strong>
+                          <div className="title flex gap-8">
+                            <strong>HOW TO TALK TO A BABY.</strong>
+                            <MoreVertical size="20" className="mt-[2px] invisible group-hover:visible"/>
+                          </div>
                           <div className="flex gap-1 text-zinc-400 font-medium text-sm">
                             How to DAD
                             <BadgeCheck size="20" className="mt-[-.2px]"/>
@@ -139,12 +143,17 @@ export default function Home() {
                         </div>
                       </div>
                     </a>
-                    <a href="#" className='rounded gap-4'>
+                    {/* Aqui termina um vídeo */}
+                    {/* Aqui começa um vídeo */}
+                    <a href="#" className='rounded gap-4 group'>
                       <img className="rounded-xl" src="/thumb2.png" width={500} height={500} alt="VideoThumb"/>
                       <div className="flex gap-2 mt-3">
                         <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
                         <div className="">
-                          <strong>HOW TO TALK TO A BABY.</strong>
+                          <div className="title flex gap-8">
+                            <strong>HOW TO TALK TO A BABY.</strong>
+                            <MoreVertical size="20" className="mt-[2px] invisible group-hover:visible"/>
+                          </div>
                           <div className="flex gap-1 text-zinc-400 font-medium text-sm">
                             How to DAD
                             <BadgeCheck size="20" className="mt-[-.2px]"/>
@@ -155,12 +164,17 @@ export default function Home() {
                         </div>
                       </div>
                     </a>
-                    <a href="#" className='rounded gap-4'>
+                    {/* Aqui termina um vídeo */}
+                    {/* Aqui começa um vídeo */}
+                    <a href="#" className='rounded gap-4 group'>
                       <img className="rounded-xl" src="/thumb2.png" width={500} height={500} alt="VideoThumb"/>
                       <div className="flex gap-2 mt-3">
                         <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
                         <div className="">
-                          <strong>HOW TO TALK TO A BABY.</strong>
+                          <div className="title flex gap-8">
+                            <strong>HOW TO TALK TO A BABY.</strong>
+                            <MoreVertical size="20" className="mt-[2px] invisible group-hover:visible"/>
+                          </div>
                           <div className="flex gap-1 text-zinc-400 font-medium text-sm">
                             How to DAD
                             <BadgeCheck size="20" className="mt-[-.2px]"/>
@@ -171,12 +185,17 @@ export default function Home() {
                         </div>
                       </div>
                     </a>
-                    <a href="#" className='rounded gap-4'>
+                    {/* Aqui termina um vídeo */}
+                    {/* Aqui começa um vídeo */}
+                    <a href="#" className='rounded gap-4 group'>
                       <img className="rounded-xl" src="/thumb2.png" width={500} height={500} alt="VideoThumb"/>
                       <div className="flex gap-2 mt-3">
                         <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
                         <div className="">
-                          <strong>HOW TO TALK TO A BABY.</strong>
+                          <div className="title flex gap-8">
+                            <strong>HOW TO TALK TO A BABY.</strong>
+                            <MoreVertical size="20" className="mt-[2px] invisible group-hover:visible"/>
+                          </div>
                           <div className="flex gap-1 text-zinc-400 font-medium text-sm">
                             How to DAD
                             <BadgeCheck size="20" className="mt-[-.2px]"/>
@@ -187,12 +206,17 @@ export default function Home() {
                         </div>
                       </div>
                     </a>
-                    <a href="#" className='rounded gap-4'>
+                    {/* Aqui termina um vídeo */}
+                    {/* Aqui começa um vídeo */}
+                    <a href="#" className='rounded gap-4 group'>
                       <img className="rounded-xl" src="/thumb2.png" width={500} height={500} alt="VideoThumb"/>
                       <div className="flex gap-2 mt-3">
                         <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
                         <div className="">
-                          <strong>HOW TO TALK TO A BABY.</strong>
+                          <div className="title flex gap-8">
+                            <strong>HOW TO TALK TO A BABY.</strong>
+                            <MoreVertical size="20" className="mt-[2px] invisible group-hover:visible"/>
+                          </div>
                           <div className="flex gap-1 text-zinc-400 font-medium text-sm">
                             How to DAD
                             <BadgeCheck size="20" className="mt-[-.2px]"/>
@@ -203,12 +227,17 @@ export default function Home() {
                         </div>
                       </div>
                     </a>
-                    <a href="#" className='rounded gap-4'>
+                    {/* Aqui termina um vídeo */}
+                    {/* Aqui começa um vídeo */}
+                    <a href="#" className='rounded gap-4 group'>
                       <img className="rounded-xl" src="/thumb2.png" width={500} height={500} alt="VideoThumb"/>
                       <div className="flex gap-2 mt-3">
                         <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
                         <div className="">
-                          <strong>HOW TO TALK TO A BABY.</strong>
+                          <div className="title flex gap-8">
+                            <strong>HOW TO TALK TO A BABY.</strong>
+                            <MoreVertical size="20" className="mt-[2px] invisible group-hover:visible"/>
+                          </div>
                           <div className="flex gap-1 text-zinc-400 font-medium text-sm">
                             How to DAD
                             <BadgeCheck size="20" className="mt-[-.2px]"/>
@@ -219,12 +248,17 @@ export default function Home() {
                         </div>
                       </div>
                     </a>
-                    <a href="#" className='rounded gap-4'>
+                    {/* Aqui termina um vídeo */}
+                    {/* Aqui começa um vídeo */}
+                    <a href="#" className='rounded gap-4 group'>
                       <img className="rounded-xl" src="/thumb2.png" width={500} height={500} alt="VideoThumb"/>
                       <div className="flex gap-2 mt-3">
                         <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
                         <div className="">
-                          <strong>HOW TO TALK TO A BABY.</strong>
+                          <div className="title flex gap-8">
+                            <strong>HOW TO TALK TO A BABY.</strong>
+                            <MoreVertical size="20" className="mt-[2px] invisible group-hover:visible"/>
+                          </div>
                           <div className="flex gap-1 text-zinc-400 font-medium text-sm">
                             How to DAD
                             <BadgeCheck size="20" className="mt-[-.2px]"/>
@@ -235,12 +269,17 @@ export default function Home() {
                         </div>
                       </div>
                     </a>
-                    <a href="#" className='rounded gap-4'>
+                    {/* Aqui termina um vídeo */}
+                    {/* Aqui começa um vídeo */}
+                    <a href="#" className='rounded gap-4 group'>
                       <img className="rounded-xl" src="/thumb2.png" width={500} height={500} alt="VideoThumb"/>
                       <div className="flex gap-2 mt-3">
                         <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
                         <div className="">
-                          <strong>HOW TO TALK TO A BABY.</strong>
+                          <div className="title flex gap-8">
+                            <strong>HOW TO TALK TO A BABY.</strong>
+                            <MoreVertical size="20" className="mt-[2px] invisible group-hover:visible"/>
+                          </div>
                           <div className="flex gap-1 text-zinc-400 font-medium text-sm">
                             How to DAD
                             <BadgeCheck size="20" className="mt-[-.2px]"/>
@@ -251,12 +290,17 @@ export default function Home() {
                         </div>
                       </div>
                     </a>
-                    <a href="#" className='rounded gap-4'>
+                    {/* Aqui termina um vídeo */}
+                    {/* Aqui começa um vídeo */}
+                    <a href="#" className='rounded gap-4 group'>
                       <img className="rounded-xl" src="/thumb2.png" width={500} height={500} alt="VideoThumb"/>
                       <div className="flex gap-2 mt-3">
                         <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
                         <div className="">
-                          <strong>HOW TO TALK TO A BABY.</strong>
+                          <div className="title flex gap-8">
+                            <strong>HOW TO TALK TO A BABY.</strong>
+                            <MoreVertical size="20" className="mt-[2px] invisible group-hover:visible"/>
+                          </div>
                           <div className="flex gap-1 text-zinc-400 font-medium text-sm">
                             How to DAD
                             <BadgeCheck size="20" className="mt-[-.2px]"/>
@@ -267,12 +311,17 @@ export default function Home() {
                         </div>
                       </div>
                     </a>
-                    <a href="#" className='rounded gap-4'>
+                    {/* Aqui termina um vídeo */}
+                    {/* Aqui começa um vídeo */}
+                    <a href="#" className='rounded gap-4 group'>
                       <img className="rounded-xl" src="/thumb2.png" width={500} height={500} alt="VideoThumb"/>
                       <div className="flex gap-2 mt-3">
                         <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
                         <div className="">
-                          <strong>HOW TO TALK TO A BABY.</strong>
+                          <div className="title flex gap-8">
+                            <strong>HOW TO TALK TO A BABY.</strong>
+                            <MoreVertical size="20" className="mt-[2px] invisible group-hover:visible"/>
+                          </div>
                           <div className="flex gap-1 text-zinc-400 font-medium text-sm">
                             How to DAD
                             <BadgeCheck size="20" className="mt-[-.2px]"/>
@@ -283,12 +332,17 @@ export default function Home() {
                         </div>
                       </div>
                     </a>
-                    <a href="#" className='rounded gap-4'>
+                    {/* Aqui termina um vídeo */}
+                    {/* Aqui começa um vídeo */}
+                    <a href="#" className='rounded gap-4 group'>
                       <img className="rounded-xl" src="/thumb2.png" width={500} height={500} alt="VideoThumb"/>
                       <div className="flex gap-2 mt-3">
                         <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
                         <div className="">
-                          <strong>HOW TO TALK TO A BABY.</strong>
+                          <div className="title flex gap-8">
+                            <strong>HOW TO TALK TO A BABY.</strong>
+                            <MoreVertical size="20" className="mt-[2px] invisible group-hover:visible"/>
+                          </div>
                           <div className="flex gap-1 text-zinc-400 font-medium text-sm">
                             How to DAD
                             <BadgeCheck size="20" className="mt-[-.2px]"/>
@@ -299,12 +353,17 @@ export default function Home() {
                         </div>
                       </div>
                     </a>
-                    <a href="#" className='rounded gap-4'>
+                    {/* Aqui termina um vídeo */}
+                    {/* Aqui começa um vídeo */}
+                    <a href="#" className='rounded gap-4 group'>
                       <img className="rounded-xl" src="/thumb2.png" width={500} height={500} alt="VideoThumb"/>
                       <div className="flex gap-2 mt-3">
                         <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
                         <div className="">
-                          <strong>HOW TO TALK TO A BABY.</strong>
+                          <div className="title flex gap-8">
+                            <strong>HOW TO TALK TO A BABY.</strong>
+                            <MoreVertical size="20" className="mt-[2px] invisible group-hover:visible"/>
+                          </div>
                           <div className="flex gap-1 text-zinc-400 font-medium text-sm">
                             How to DAD
                             <BadgeCheck size="20" className="mt-[-.2px]"/>
@@ -315,12 +374,17 @@ export default function Home() {
                         </div>
                       </div>
                     </a>
-                    <a href="#" className='rounded gap-4'>
+                    {/* Aqui termina um vídeo */}
+                    {/* Aqui começa um vídeo */}
+                    <a href="#" className='rounded gap-4 group'>
                       <img className="rounded-xl" src="/thumb2.png" width={500} height={500} alt="VideoThumb"/>
                       <div className="flex gap-2 mt-3">
                         <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
                         <div className="">
-                          <strong>HOW TO TALK TO A BABY.</strong>
+                          <div className="title flex gap-8">
+                            <strong>HOW TO TALK TO A BABY.</strong>
+                            <MoreVertical size="20" className="mt-[2px] invisible group-hover:visible"/>
+                          </div>
                           <div className="flex gap-1 text-zinc-400 font-medium text-sm">
                             How to DAD
                             <BadgeCheck size="20" className="mt-[-.2px]"/>
@@ -331,12 +395,17 @@ export default function Home() {
                         </div>
                       </div>
                     </a>
-                    <a href="#" className='rounded gap-4'>
+                    {/* Aqui termina um vídeo */}
+                    {/* Aqui começa um vídeo */}
+                    <a href="#" className='rounded gap-4 group'>
                       <img className="rounded-xl" src="/thumb2.png" width={500} height={500} alt="VideoThumb"/>
                       <div className="flex gap-2 mt-3">
                         <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
                         <div className="">
-                          <strong>HOW TO TALK TO A BABY.</strong>
+                          <div className="title flex gap-8">
+                            <strong>HOW TO TALK TO A BABY.</strong>
+                            <MoreVertical size="20" className="mt-[2px] invisible group-hover:visible"/>
+                          </div>
                           <div className="flex gap-1 text-zinc-400 font-medium text-sm">
                             How to DAD
                             <BadgeCheck size="20" className="mt-[-.2px]"/>
@@ -347,12 +416,17 @@ export default function Home() {
                         </div>
                       </div>
                     </a>
-                    <a href="#" className='rounded gap-4'>
+                    {/* Aqui termina um vídeo */}
+                    {/* Aqui começa um vídeo */}
+                    <a href="#" className='rounded gap-4 group'>
                       <img className="rounded-xl" src="/thumb2.png" width={500} height={500} alt="VideoThumb"/>
                       <div className="flex gap-2 mt-3">
                         <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
                         <div className="">
-                          <strong>HOW TO TALK TO A BABY.</strong>
+                          <div className="title flex gap-8">
+                            <strong>HOW TO TALK TO A BABY.</strong>
+                            <MoreVertical size="20" className="mt-[2px] invisible group-hover:visible"/>
+                          </div>
                           <div className="flex gap-1 text-zinc-400 font-medium text-sm">
                             How to DAD
                             <BadgeCheck size="20" className="mt-[-.2px]"/>
@@ -363,6 +437,112 @@ export default function Home() {
                         </div>
                       </div>
                     </a>
+                    {/* Aqui termina um vídeo */}
+                    {/* Aqui começa um vídeo */}
+                    <a href="#" className='rounded gap-4 group'>
+                      <img className="rounded-xl" src="/thumb2.png" width={500} height={500} alt="VideoThumb"/>
+                      <div className="flex gap-2 mt-3">
+                        <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
+                        <div className="">
+                          <div className="title flex gap-8">
+                            <strong>HOW TO TALK TO A BABY.</strong>
+                            <MoreVertical size="20" className="mt-[2px] invisible group-hover:visible"/>
+                          </div>
+                          <div className="flex gap-1 text-zinc-400 font-medium text-sm">
+                            How to DAD
+                            <BadgeCheck size="20" className="mt-[-.2px]"/>
+                          </div>
+                          <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
+                          26 mi de visualizações há 4 anos
+                          </div>
+                        </div>
+                      </div>
+                    </a>
+                    {/* Aqui termina um vídeo */}
+                    {/* Aqui começa um vídeo */}
+                    <a href="#" className='rounded gap-4 group'>
+                      <img className="rounded-xl" src="/thumb2.png" width={500} height={500} alt="VideoThumb"/>
+                      <div className="flex gap-2 mt-3">
+                        <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
+                        <div className="">
+                          <div className="title flex gap-8">
+                            <strong>HOW TO TALK TO A BABY.</strong>
+                            <MoreVertical size="20" className="mt-[2px] invisible group-hover:visible"/>
+                          </div>
+                          <div className="flex gap-1 text-zinc-400 font-medium text-sm">
+                            How to DAD
+                            <BadgeCheck size="20" className="mt-[-.2px]"/>
+                          </div>
+                          <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
+                          26 mi de visualizações há 4 anos
+                          </div>
+                        </div>
+                      </div>
+                    </a>
+                    {/* Aqui termina um vídeo */}
+                    {/* Aqui começa um vídeo */}
+                    <a href="#" className='rounded gap-4 group'>
+                      <img className="rounded-xl" src="/thumb2.png" width={500} height={500} alt="VideoThumb"/>
+                      <div className="flex gap-2 mt-3">
+                        <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
+                        <div className="">
+                          <div className="title flex gap-8">
+                            <strong>HOW TO TALK TO A BABY.</strong>
+                            <MoreVertical size="20" className="mt-[2px] invisible group-hover:visible"/>
+                          </div>
+                          <div className="flex gap-1 text-zinc-400 font-medium text-sm">
+                            How to DAD
+                            <BadgeCheck size="20" className="mt-[-.2px]"/>
+                          </div>
+                          <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
+                          26 mi de visualizações há 4 anos
+                          </div>
+                        </div>
+                      </div>
+                    </a>
+                    {/* Aqui termina um vídeo */}
+                    {/* Aqui começa um vídeo */}
+                    <a href="#" className='rounded gap-4 group'>
+                      <img className="rounded-xl" src="/thumb2.png" width={500} height={500} alt="VideoThumb"/>
+                      <div className="flex gap-2 mt-3">
+                        <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
+                        <div className="">
+                          <div className="title flex gap-8">
+                            <strong>HOW TO TALK TO A BABY.</strong>
+                            <MoreVertical size="20" className="mt-[2px] invisible group-hover:visible"/>
+                          </div>
+                          <div className="flex gap-1 text-zinc-400 font-medium text-sm">
+                            How to DAD
+                            <BadgeCheck size="20" className="mt-[-.2px]"/>
+                          </div>
+                          <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
+                          26 mi de visualizações há 4 anos
+                          </div>
+                        </div>
+                      </div>
+                    </a>
+                    {/* Aqui termina um vídeo */}
+                    {/* Aqui começa um vídeo */}
+                    <a href="#" className='rounded gap-4 group'>
+                      <img className="rounded-xl" src="/thumb2.png" width={500} height={500} alt="VideoThumb"/>
+                      <div className="flex gap-2 mt-3">
+                        <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
+                        <div className="">
+                          <div className="title flex gap-8">
+                            <strong>HOW TO TALK TO A BABY.</strong>
+                            <MoreVertical size="20" className="mt-[2px] invisible group-hover:visible"/>
+                          </div>
+                          <div className="flex gap-1 text-zinc-400 font-medium text-sm">
+                            How to DAD
+                            <BadgeCheck size="20" className="mt-[-.2px]"/>
+                          </div>
+                          <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
+                          26 mi de visualizações há 4 anos
+                          </div>
+                        </div>
+                      </div>
+                    </a>
+                    {/* Aqui termina um vídeo */}
                   </div>
                 </div>
               </div>
