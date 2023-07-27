@@ -66,43 +66,43 @@ export default function AsidebarBottom () {
             </a>
             <a href="">
                 <li className="text-zinc-100 text-sm font-semibold flex items-center h-10 gap-6 px-3 hover:bg-zinc-800/75 hover:rounded-xl">
-                    <img className="rounded-full" src="eu.png" width={25} height={25} alt="Profile" />
+                    <img className="rounded-full" src="rocketseat.png" width={25} height={25} alt="Profile" />
                     Rocketseat
                 </li>
             </a>
             <a href="">
                 <li className="text-zinc-100 text-sm font-semibold flex items-center h-10 gap-6 px-3 hover:bg-zinc-800/75 hover:rounded-xl">
-                    <img className="rounded-full" src="eu.png" width={25} height={25} alt="Profile" />
+                    <img className="rounded-full" src="lucas.png" width={25} height={25} alt="Profile" />
                     Lucas Montano
                 </li>
             </a>
             <a href="">
                 <li className="text-zinc-100 text-sm font-semibold flex items-center h-10 gap-6 px-3 hover:bg-zinc-800/75 hover:rounded-xl">
-                    <img className="rounded-full" src="eu.png" width={25} height={25} alt="Profile" />
+                    <img className="rounded-full" src="podpah.png" width={25} height={25} alt="Profile" />
                     Podpah
                 </li>
             </a>
             <a href="">
                 <li className="text-zinc-100 text-sm font-semibold flex items-center h-10 gap-6 px-3 hover:bg-zinc-800/75 hover:rounded-xl">
-                    <img className="rounded-full" src="eu.png" width={25} height={25} alt="Profile" />
+                    <img className="rounded-full" src="ludoviajante.png" width={25} height={25} alt="Profile" />
                     Ludoviajante
                 </li>
             </a>
             <a href="">
                 <li className="text-zinc-100 text-sm font-semibold flex items-center h-10 gap-6 px-3 hover:bg-zinc-800/75 hover:rounded-xl">
-                    <img className="rounded-full" src="eu.png" width={25} height={25} alt="Profile" />
+                    <img className="rounded-full" src="otsuka.png" width={25} height={25} alt="Profile" />
                     OtsukaXD
                 </li>
             </a>
             <a href="">
                 <li className="text-zinc-100 text-sm font-semibold flex items-center h-10 gap-6 px-3 hover:bg-zinc-800/75 hover:rounded-xl">
-                    <img className="rounded-full" src="eu.png" width={25} height={25} alt="Profile" />
+                    <img className="rounded-full" src="in.png" width={25} height={25} alt="Profile" />
                     Inutilismo
                 </li>
             </a>
             <a href="">
                 <li className="text-zinc-100 text-sm font-semibold flex items-center h-10 gap-6 px-3 hover:bg-zinc-800/75 hover:rounded-xl">
-                    <img className="rounded-full" src="eu.png" width={25} height={25} alt="Profile" />
+                    <img className="rounded-full" src="balela.png" width={25} height={25} alt="Profile" />
                     Balela
                 </li>
             </a>
