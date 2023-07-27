@@ -20,7 +20,7 @@ export default function Home() {
                     <Keyboard size="20" className="ml-[-40px]"/>
                   </a>
                 </div>
-                <div className="bg-zinc-900/90 w-16 h-10 mt-[-.5rem] flex items-center px-3 border-t border-b rounded-r-3xl border-zinc-800">
+                <div className="bg-zinc-900 w-16 h-10 mt-[-.5rem] flex items-center px-3 border-t border-b rounded-r-3xl border-zinc-800">
                   <a href="">
                     <Search size="20"/>
                   </a>
