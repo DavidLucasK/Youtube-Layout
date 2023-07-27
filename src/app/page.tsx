@@ -130,15 +130,161 @@ export default function Home() {
                         <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
                         <div className="">
                           <div className="title flex gap-8">
-                            <strong>HOW TO TALK TO A BABY.</strong>
-                            <MoreVertical size="20" className="mt-[2px] invisible group-hover:visible"/>
+                            <strong>MINHA PRIMEIRA VAGA COMO DEV</strong>
+                            <MoreVertical size="25" className="mt-[2px] invisible group-hover:visible"/>
                           </div>
                           <div className="flex gap-1 text-zinc-400 font-medium text-sm">
-                            How to DAD
+                            Futuro Dev - John
+                          </div>
+                          <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
+                          86 mil de visualizações • há 2 meses
+                          </div>
+                        </div>
+                      </div>
+                    </a>
+                    {/* Aqui termina um vídeo */}
+                    {/* Aqui começa um vídeo */}
+                    <a href="#" className='rounded gap-4 group'>
+                      <img className="rounded-xl" src="/thumb1.png" width={500} height={500} alt="VideoThumb"/>
+                      <div className="flex gap-2 mt-3">
+                        <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
+                        <div className="">
+                          <div className="title flex gap-8">
+                            <strong>CASIMIRO REAGE RODRIGO GOES - FAKE NATTY ?</strong>
+                            <MoreVertical size="35" className="mt-[-4px] invisible group-hover:visible"/>
+                          </div>
+                          <div className="flex gap-1 text-zinc-400 font-medium text-sm">
+                            Cortes do Casimito
                             <BadgeCheck size="20" className="mt-[-.2px]"/>
                           </div>
                           <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
-                          26 mi de visualizações há 4 anos
+                          26 mi de visualizações • há 2 dias
+                          </div>
+                        </div>
+                      </div>
+                    </a>
+                    {/* Aqui termina um vídeo */}
+                    {/* Aqui começa um vídeo */}
+                    <a href="#" className='rounded gap-4 group'>
+                      <img className="rounded-xl" src="/thumb3.png" width={500} height={500} alt="VideoThumb"/>
+                      <div className="flex gap-2 mt-3">
+                        <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
+                        <div className="">
+                          <div className="title flex gap-8">
+                            <strong>NOVAS FEATURES DO NEXT 13</strong>
+                            <MoreVertical size="22" className="mt-[2px] invisible group-hover:visible"/>
+                          </div>
+                          <div className="flex gap-1 text-zinc-400 font-medium text-sm">
+                            Rocketseat
+                            <BadgeCheck size="20" className="mt-[-.2px]"/>
+                          </div>
+                          <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
+                          86 mil de visualizações • há 2 meses
+                          </div>
+                        </div>
+                      </div>
+                    </a>
+                    {/* Aqui termina um vídeo */}
+                    {/* Aqui começa um vídeo */}
+                    <a href="#" className='rounded gap-4 group'>
+                      <img className="rounded-xl" src="/thumb4.png" width={500} height={500} alt="VideoThumb"/>
+                      <div className="flex gap-2 mt-3">
+                        <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
+                        <div className="">
+                          <div className="title flex gap-8">
+                            <strong>CASIMIRO REAGE ÍTALO SENA O MAIOR PSICOPATA</strong>
+                            <MoreVertical size="35" className="mt-[-4px] invisible group-hover:visible"/>
+                          </div>
+                          <div className="flex gap-1 text-zinc-400 font-medium text-sm">
+                          Cortes do Casimito
+                            <BadgeCheck size="20" className="mt-[-.2px]"/>
+                          </div>
+                          <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
+                          254 mi de visualizações • há 2 dias
+                          </div>
+                        </div>
+                      </div>
+                    </a>
+                    {/* Aqui termina um vídeo */}
+                    {/* Aqui começa um vídeo */}
+                    <a href="#" className='rounded gap-4 group'>
+                      <img className="rounded-xl" src="/thumb5.png" width={500} height={500} alt="VideoThumb"/>
+                      <div className="flex gap-2 mt-3">
+                        <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
+                        <div className="">
+                          <div className="title flex gap-8">
+                            <strong>GIL DO VIGOR - Podpah #658</strong>
+                            <MoreVertical size="20" className="mt-[2px] invisible group-hover:visible"/>
+                          </div>
+                          <div className="flex gap-1 text-zinc-400 font-medium text-sm">
+                            Podpah
+                            <BadgeCheck size="20" className="mt-[-.2px]"/>
+                          </div>
+                          <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
+                          112 mil de visualizações • há 1 dia
+                          </div>
+                        </div>
+                      </div>
+                    </a>
+                    {/* Aqui termina um vídeo */}
+                    {/* Aqui começa um vídeo */}
+                    <a href="#" className='rounded gap-4 group'>
+                      <img className="rounded-xl" src="/thumb1.png" width={500} height={500} alt="VideoThumb"/>
+                      <div className="flex gap-2 mt-3">
+                        <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
+                        <div className="">
+                          <div className="title flex gap-8">
+                            <strong>CASIMIRO REAGE RODRIGO GOES - FAKE NATTY ?</strong>
+                            <MoreVertical size="35" className="mt-[-4px] invisible group-hover:visible"/>
+                          </div>
+                          <div className="flex gap-1 text-zinc-400 font-medium text-sm">
+                            Cortes do Casimito
+                            <BadgeCheck size="20" className="mt-[-.2px]"/>
+                          </div>
+                          <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
+                          26 mi de visualizações • há 2 dias
+                          </div>
+                        </div>
+                      </div>
+                    </a>
+                    {/* Aqui termina um vídeo */}
+                    {/* Aqui começa um vídeo */}
+                    <a href="#" className='rounded gap-4 group'>
+                      <img className="rounded-xl" src="/thumb3.png" width={500} height={500} alt="VideoThumb"/>
+                      <div className="flex gap-2 mt-3">
+                        <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
+                        <div className="">
+                          <div className="title flex gap-8">
+                            <strong>NOVAS FEATURES DO NEXT 13</strong>
+                            <MoreVertical size="22" className="mt-[2px] invisible group-hover:visible"/>
+                          </div>
+                          <div className="flex gap-1 text-zinc-400 font-medium text-sm">
+                            Rocketseat
+                            <BadgeCheck size="20" className="mt-[-.2px]"/>
+                          </div>
+                          <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
+                          86 mil de visualizações • há 2 meses
+                          </div>
+                        </div>
+                      </div>
+                    </a>
+                    {/* Aqui termina um vídeo */}
+                    {/* Aqui começa um vídeo */}
+                    <a href="#" className='rounded gap-4 group'>
+                      <img className="rounded-xl" src="/thumb4.png" width={500} height={500} alt="VideoThumb"/>
+                      <div className="flex gap-2 mt-3">
+                        <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
+                        <div className="">
+                          <div className="title flex gap-8">
+                            <strong>CASIMIRO REAGE ÍTALO SENA O MAIOR PSICOPATA</strong>
+                            <MoreVertical size="35" className="mt-[-4px] invisible group-hover:visible"/>
+                          </div>
+                          <div className="flex gap-1 text-zinc-400 font-medium text-sm">
+                          Cortes do Casimito
+                            <BadgeCheck size="20" className="mt-[-.2px]"/>
+                          </div>
+                          <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
+                          254 mi de visualizações • há 2 dias
                           </div>
                         </div>
                       </div>
@@ -151,15 +297,35 @@ export default function Home() {
                         <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
                         <div className="">
                           <div className="title flex gap-8">
-                            <strong>HOW TO TALK TO A BABY.</strong>
+                            <strong>MINHA PRIMEIRA VAGA COMO DEV</strong>
+                            <MoreVertical size="25" className="mt-[2px] invisible group-hover:visible"/>
+                          </div>
+                          <div className="flex gap-1 text-zinc-400 font-medium text-sm">
+                            Futuro Dev - John
+                          </div>
+                          <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
+                          86 mil de visualizações • há 2 meses
+                          </div>
+                        </div>
+                      </div>
+                    </a>
+                    {/* Aqui termina um vídeo */}
+                    {/* Aqui começa um vídeo */}
+                    <a href="#" className='rounded gap-4 group'>
+                      <img className="rounded-xl" src="/thumb5.png" width={500} height={500} alt="VideoThumb"/>
+                      <div className="flex gap-2 mt-3">
+                        <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
+                        <div className="">
+                          <div className="title flex gap-8">
+                            <strong>GIL DO VIGOR - Podpah #658</strong>
                             <MoreVertical size="20" className="mt-[2px] invisible group-hover:visible"/>
                           </div>
                           <div className="flex gap-1 text-zinc-400 font-medium text-sm">
-                            How to DAD
+                            Podpah
                             <BadgeCheck size="20" className="mt-[-.2px]"/>
                           </div>
                           <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
-                          26 mi de visualizações há 4 anos
+                          112 mil de visualizações • há 1 dia
                           </div>
                         </div>
                       </div>
@@ -172,15 +338,98 @@ export default function Home() {
                         <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
                         <div className="">
                           <div className="title flex gap-8">
-                            <strong>HOW TO TALK TO A BABY.</strong>
-                            <MoreVertical size="20" className="mt-[2px] invisible group-hover:visible"/>
+                            <strong>MINHA PRIMEIRA VAGA COMO DEV</strong>
+                            <MoreVertical size="25" className="mt-[2px] invisible group-hover:visible"/>
                           </div>
                           <div className="flex gap-1 text-zinc-400 font-medium text-sm">
-                            How to DAD
+                            Futuro Dev - John
+                          </div>
+                          <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
+                          86 mil de visualizações • há 2 meses
+                          </div>
+                        </div>
+                      </div>
+                    </a>
+                    {/* Aqui termina um vídeo */}
+                    {/* Aqui começa um vídeo */}
+                    <a href="#" className='rounded gap-4 group'>
+                      <img className="rounded-xl" src="/thumb1.png" width={500} height={500} alt="VideoThumb"/>
+                      <div className="flex gap-2 mt-3">
+                        <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
+                        <div className="">
+                          <div className="title flex gap-8">
+                            <strong>CASIMIRO REAGE RODRIGO GOES - FAKE NATTY ?</strong>
+                            <MoreVertical size="35" className="mt-[-4px] invisible group-hover:visible"/>
+                          </div>
+                          <div className="flex gap-1 text-zinc-400 font-medium text-sm">
+                            Cortes do Casimito
                             <BadgeCheck size="20" className="mt-[-.2px]"/>
                           </div>
                           <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
-                          26 mi de visualizações há 4 anos
+                          26 mi de visualizações • há 2 dias
+                          </div>
+                        </div>
+                      </div>
+                    </a>
+                    {/* Aqui termina um vídeo */}
+                    {/* Aqui começa um vídeo */}
+                    <a href="#" className='rounded gap-4 group'>
+                      <img className="rounded-xl" src="/thumb5.png" width={500} height={500} alt="VideoThumb"/>
+                      <div className="flex gap-2 mt-3">
+                        <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
+                        <div className="">
+                          <div className="title flex gap-8">
+                            <strong>GIL DO VIGOR - Podpah #658</strong>
+                            <MoreVertical size="20" className="mt-[2px] invisible group-hover:visible"/>
+                          </div>
+                          <div className="flex gap-1 text-zinc-400 font-medium text-sm">
+                            Podpah
+                            <BadgeCheck size="20" className="mt-[-.2px]"/>
+                          </div>
+                          <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
+                          112 mil de visualizações • há 1 dia
+                          </div>
+                        </div>
+                      </div>
+                    </a>
+                    {/* Aqui termina um vídeo */}
+                    {/* Aqui começa um vídeo */}
+                    <a href="#" className='rounded gap-4 group'>
+                      <img className="rounded-xl" src="/thumb3.png" width={500} height={500} alt="VideoThumb"/>
+                      <div className="flex gap-2 mt-3">
+                        <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
+                        <div className="">
+                          <div className="title flex gap-8">
+                            <strong>NOVAS FEATURES DO NEXT 13</strong>
+                            <MoreVertical size="22" className="mt-[2px] invisible group-hover:visible"/>
+                          </div>
+                          <div className="flex gap-1 text-zinc-400 font-medium text-sm">
+                            Rocketseat
+                            <BadgeCheck size="20" className="mt-[-.2px]"/>
+                          </div>
+                          <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
+                          86 mil de visualizações • há 2 meses
+                          </div>
+                        </div>
+                      </div>
+                    </a>
+                    {/* Aqui termina um vídeo */}
+                    {/* Aqui começa um vídeo */}
+                    <a href="#" className='rounded gap-4 group'>
+                      <img className="rounded-xl" src="/thumb4.png" width={500} height={500} alt="VideoThumb"/>
+                      <div className="flex gap-2 mt-3">
+                        <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
+                        <div className="">
+                          <div className="title flex gap-8">
+                            <strong>CASIMIRO REAGE ÍTALO SENA O MAIOR PSICOPATA</strong>
+                            <MoreVertical size="35" className="mt-[-4px] invisible group-hover:visible"/>
+                          </div>
+                          <div className="flex gap-1 text-zinc-400 font-medium text-sm">
+                          Cortes do Casimito
+                            <BadgeCheck size="20" className="mt-[-.2px]"/>
+                          </div>
+                          <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
+                          254 mi de visualizações • há 2 dias
                           </div>
                         </div>
                       </div>
@@ -193,15 +442,14 @@ export default function Home() {
                         <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
                         <div className="">
                           <div className="title flex gap-8">
-                            <strong>HOW TO TALK TO A BABY.</strong>
-                            <MoreVertical size="20" className="mt-[2px] invisible group-hover:visible"/>
+                            <strong>MINHA PRIMEIRA VAGA COMO DEV</strong>
+                            <MoreVertical size="25" className="mt-[2px] invisible group-hover:visible"/>
                           </div>
                           <div className="flex gap-1 text-zinc-400 font-medium text-sm">
-                            How to DAD
-                            <BadgeCheck size="20" className="mt-[-.2px]"/>
+                            Futuro Dev - John
                           </div>
                           <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
-                          26 mi de visualizações há 4 anos
+                          86 mil de visualizações • há 2 meses
                           </div>
                         </div>
                       </div>
@@ -209,20 +457,20 @@ export default function Home() {
                     {/* Aqui termina um vídeo */}
                     {/* Aqui começa um vídeo */}
                     <a href="#" className='rounded gap-4 group'>
-                      <img className="rounded-xl" src="/thumb2.png" width={500} height={500} alt="VideoThumb"/>
+                      <img className="rounded-xl" src="/thumb1.png" width={500} height={500} alt="VideoThumb"/>
                       <div className="flex gap-2 mt-3">
                         <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
                         <div className="">
                           <div className="title flex gap-8">
-                            <strong>HOW TO TALK TO A BABY.</strong>
-                            <MoreVertical size="20" className="mt-[2px] invisible group-hover:visible"/>
+                            <strong>CASIMIRO REAGE RODRIGO GOES - FAKE NATTY ?</strong>
+                            <MoreVertical size="35" className="mt-[-4px] invisible group-hover:visible"/>
                           </div>
                           <div className="flex gap-1 text-zinc-400 font-medium text-sm">
-                            How to DAD
+                            Cortes do Casimito
                             <BadgeCheck size="20" className="mt-[-.2px]"/>
                           </div>
                           <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
-                          26 mi de visualizações há 4 anos
+                          26 mi de visualizações • há 2 dias
                           </div>
                         </div>
                       </div>
@@ -230,20 +478,20 @@ export default function Home() {
                     {/* Aqui termina um vídeo */}
                     {/* Aqui começa um vídeo */}
                     <a href="#" className='rounded gap-4 group'>
-                      <img className="rounded-xl" src="/thumb2.png" width={500} height={500} alt="VideoThumb"/>
+                      <img className="rounded-xl" src="/thumb3.png" width={500} height={500} alt="VideoThumb"/>
                       <div className="flex gap-2 mt-3">
                         <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
                         <div className="">
                           <div className="title flex gap-8">
-                            <strong>HOW TO TALK TO A BABY.</strong>
-                            <MoreVertical size="20" className="mt-[2px] invisible group-hover:visible"/>
+                            <strong>NOVAS FEATURES DO NEXT 13</strong>
+                            <MoreVertical size="22" className="mt-[2px] invisible group-hover:visible"/>
                           </div>
                           <div className="flex gap-1 text-zinc-400 font-medium text-sm">
-                            How to DAD
+                            Rocketseat
                             <BadgeCheck size="20" className="mt-[-.2px]"/>
                           </div>
                           <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
-                          26 mi de visualizações há 4 anos
+                          86 mil de visualizações • há 2 meses
                           </div>
                         </div>
                       </div>
@@ -251,20 +499,20 @@ export default function Home() {
                     {/* Aqui termina um vídeo */}
                     {/* Aqui começa um vídeo */}
                     <a href="#" className='rounded gap-4 group'>
-                      <img className="rounded-xl" src="/thumb2.png" width={500} height={500} alt="VideoThumb"/>
+                      <img className="rounded-xl" src="/thumb4.png" width={500} height={500} alt="VideoThumb"/>
                       <div className="flex gap-2 mt-3">
                         <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
                         <div className="">
                           <div className="title flex gap-8">
-                            <strong>HOW TO TALK TO A BABY.</strong>
-                            <MoreVertical size="20" className="mt-[2px] invisible group-hover:visible"/>
+                            <strong>CASIMIRO REAGE ÍTALO SENA O MAIOR PSICOPATA</strong>
+                            <MoreVertical size="35" className="mt-[-4px] invisible group-hover:visible"/>
                           </div>
                           <div className="flex gap-1 text-zinc-400 font-medium text-sm">
-                            How to DAD
+                          Cortes do Casimito
                             <BadgeCheck size="20" className="mt-[-.2px]"/>
                           </div>
                           <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
-                          26 mi de visualizações há 4 anos
+                          254 mi de visualizações • há 2 dias
                           </div>
                         </div>
                       </div>
@@ -272,272 +520,20 @@ export default function Home() {
                     {/* Aqui termina um vídeo */}
                     {/* Aqui começa um vídeo */}
                     <a href="#" className='rounded gap-4 group'>
-                      <img className="rounded-xl" src="/thumb2.png" width={500} height={500} alt="VideoThumb"/>
+                      <img className="rounded-xl" src="/thumb5.png" width={500} height={500} alt="VideoThumb"/>
                       <div className="flex gap-2 mt-3">
                         <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
                         <div className="">
                           <div className="title flex gap-8">
-                            <strong>HOW TO TALK TO A BABY.</strong>
+                            <strong>GIL DO VIGOR - Podpah #658</strong>
                             <MoreVertical size="20" className="mt-[2px] invisible group-hover:visible"/>
                           </div>
                           <div className="flex gap-1 text-zinc-400 font-medium text-sm">
-                            How to DAD
+                            Podpah
                             <BadgeCheck size="20" className="mt-[-.2px]"/>
                           </div>
                           <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
-                          26 mi de visualizações há 4 anos
-                          </div>
-                        </div>
-                      </div>
-                    </a>
-                    {/* Aqui termina um vídeo */}
-                    {/* Aqui começa um vídeo */}
-                    <a href="#" className='rounded gap-4 group'>
-                      <img className="rounded-xl" src="/thumb2.png" width={500} height={500} alt="VideoThumb"/>
-                      <div className="flex gap-2 mt-3">
-                        <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
-                        <div className="">
-                          <div className="title flex gap-8">
-                            <strong>HOW TO TALK TO A BABY.</strong>
-                            <MoreVertical size="20" className="mt-[2px] invisible group-hover:visible"/>
-                          </div>
-                          <div className="flex gap-1 text-zinc-400 font-medium text-sm">
-                            How to DAD
-                            <BadgeCheck size="20" className="mt-[-.2px]"/>
-                          </div>
-                          <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
-                          26 mi de visualizações há 4 anos
-                          </div>
-                        </div>
-                      </div>
-                    </a>
-                    {/* Aqui termina um vídeo */}
-                    {/* Aqui começa um vídeo */}
-                    <a href="#" className='rounded gap-4 group'>
-                      <img className="rounded-xl" src="/thumb2.png" width={500} height={500} alt="VideoThumb"/>
-                      <div className="flex gap-2 mt-3">
-                        <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
-                        <div className="">
-                          <div className="title flex gap-8">
-                            <strong>HOW TO TALK TO A BABY.</strong>
-                            <MoreVertical size="20" className="mt-[2px] invisible group-hover:visible"/>
-                          </div>
-                          <div className="flex gap-1 text-zinc-400 font-medium text-sm">
-                            How to DAD
-                            <BadgeCheck size="20" className="mt-[-.2px]"/>
-                          </div>
-                          <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
-                          26 mi de visualizações há 4 anos
-                          </div>
-                        </div>
-                      </div>
-                    </a>
-                    {/* Aqui termina um vídeo */}
-                    {/* Aqui começa um vídeo */}
-                    <a href="#" className='rounded gap-4 group'>
-                      <img className="rounded-xl" src="/thumb2.png" width={500} height={500} alt="VideoThumb"/>
-                      <div className="flex gap-2 mt-3">
-                        <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
-                        <div className="">
-                          <div className="title flex gap-8">
-                            <strong>HOW TO TALK TO A BABY.</strong>
-                            <MoreVertical size="20" className="mt-[2px] invisible group-hover:visible"/>
-                          </div>
-                          <div className="flex gap-1 text-zinc-400 font-medium text-sm">
-                            How to DAD
-                            <BadgeCheck size="20" className="mt-[-.2px]"/>
-                          </div>
-                          <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
-                          26 mi de visualizações há 4 anos
-                          </div>
-                        </div>
-                      </div>
-                    </a>
-                    {/* Aqui termina um vídeo */}
-                    {/* Aqui começa um vídeo */}
-                    <a href="#" className='rounded gap-4 group'>
-                      <img className="rounded-xl" src="/thumb2.png" width={500} height={500} alt="VideoThumb"/>
-                      <div className="flex gap-2 mt-3">
-                        <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
-                        <div className="">
-                          <div className="title flex gap-8">
-                            <strong>HOW TO TALK TO A BABY.</strong>
-                            <MoreVertical size="20" className="mt-[2px] invisible group-hover:visible"/>
-                          </div>
-                          <div className="flex gap-1 text-zinc-400 font-medium text-sm">
-                            How to DAD
-                            <BadgeCheck size="20" className="mt-[-.2px]"/>
-                          </div>
-                          <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
-                          26 mi de visualizações há 4 anos
-                          </div>
-                        </div>
-                      </div>
-                    </a>
-                    {/* Aqui termina um vídeo */}
-                    {/* Aqui começa um vídeo */}
-                    <a href="#" className='rounded gap-4 group'>
-                      <img className="rounded-xl" src="/thumb2.png" width={500} height={500} alt="VideoThumb"/>
-                      <div className="flex gap-2 mt-3">
-                        <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
-                        <div className="">
-                          <div className="title flex gap-8">
-                            <strong>HOW TO TALK TO A BABY.</strong>
-                            <MoreVertical size="20" className="mt-[2px] invisible group-hover:visible"/>
-                          </div>
-                          <div className="flex gap-1 text-zinc-400 font-medium text-sm">
-                            How to DAD
-                            <BadgeCheck size="20" className="mt-[-.2px]"/>
-                          </div>
-                          <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
-                          26 mi de visualizações há 4 anos
-                          </div>
-                        </div>
-                      </div>
-                    </a>
-                    {/* Aqui termina um vídeo */}
-                    {/* Aqui começa um vídeo */}
-                    <a href="#" className='rounded gap-4 group'>
-                      <img className="rounded-xl" src="/thumb2.png" width={500} height={500} alt="VideoThumb"/>
-                      <div className="flex gap-2 mt-3">
-                        <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
-                        <div className="">
-                          <div className="title flex gap-8">
-                            <strong>HOW TO TALK TO A BABY.</strong>
-                            <MoreVertical size="20" className="mt-[2px] invisible group-hover:visible"/>
-                          </div>
-                          <div className="flex gap-1 text-zinc-400 font-medium text-sm">
-                            How to DAD
-                            <BadgeCheck size="20" className="mt-[-.2px]"/>
-                          </div>
-                          <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
-                          26 mi de visualizações há 4 anos
-                          </div>
-                        </div>
-                      </div>
-                    </a>
-                    {/* Aqui termina um vídeo */}
-                    {/* Aqui começa um vídeo */}
-                    <a href="#" className='rounded gap-4 group'>
-                      <img className="rounded-xl" src="/thumb2.png" width={500} height={500} alt="VideoThumb"/>
-                      <div className="flex gap-2 mt-3">
-                        <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
-                        <div className="">
-                          <div className="title flex gap-8">
-                            <strong>HOW TO TALK TO A BABY.</strong>
-                            <MoreVertical size="20" className="mt-[2px] invisible group-hover:visible"/>
-                          </div>
-                          <div className="flex gap-1 text-zinc-400 font-medium text-sm">
-                            How to DAD
-                            <BadgeCheck size="20" className="mt-[-.2px]"/>
-                          </div>
-                          <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
-                          26 mi de visualizações há 4 anos
-                          </div>
-                        </div>
-                      </div>
-                    </a>
-                    {/* Aqui termina um vídeo */}
-                    {/* Aqui começa um vídeo */}
-                    <a href="#" className='rounded gap-4 group'>
-                      <img className="rounded-xl" src="/thumb2.png" width={500} height={500} alt="VideoThumb"/>
-                      <div className="flex gap-2 mt-3">
-                        <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
-                        <div className="">
-                          <div className="title flex gap-8">
-                            <strong>HOW TO TALK TO A BABY.</strong>
-                            <MoreVertical size="20" className="mt-[2px] invisible group-hover:visible"/>
-                          </div>
-                          <div className="flex gap-1 text-zinc-400 font-medium text-sm">
-                            How to DAD
-                            <BadgeCheck size="20" className="mt-[-.2px]"/>
-                          </div>
-                          <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
-                          26 mi de visualizações há 4 anos
-                          </div>
-                        </div>
-                      </div>
-                    </a>
-                    {/* Aqui termina um vídeo */}
-                    {/* Aqui começa um vídeo */}
-                    <a href="#" className='rounded gap-4 group'>
-                      <img className="rounded-xl" src="/thumb2.png" width={500} height={500} alt="VideoThumb"/>
-                      <div className="flex gap-2 mt-3">
-                        <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
-                        <div className="">
-                          <div className="title flex gap-8">
-                            <strong>HOW TO TALK TO A BABY.</strong>
-                            <MoreVertical size="20" className="mt-[2px] invisible group-hover:visible"/>
-                          </div>
-                          <div className="flex gap-1 text-zinc-400 font-medium text-sm">
-                            How to DAD
-                            <BadgeCheck size="20" className="mt-[-.2px]"/>
-                          </div>
-                          <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
-                          26 mi de visualizações há 4 anos
-                          </div>
-                        </div>
-                      </div>
-                    </a>
-                    {/* Aqui termina um vídeo */}
-                    {/* Aqui começa um vídeo */}
-                    <a href="#" className='rounded gap-4 group'>
-                      <img className="rounded-xl" src="/thumb2.png" width={500} height={500} alt="VideoThumb"/>
-                      <div className="flex gap-2 mt-3">
-                        <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
-                        <div className="">
-                          <div className="title flex gap-8">
-                            <strong>HOW TO TALK TO A BABY.</strong>
-                            <MoreVertical size="20" className="mt-[2px] invisible group-hover:visible"/>
-                          </div>
-                          <div className="flex gap-1 text-zinc-400 font-medium text-sm">
-                            How to DAD
-                            <BadgeCheck size="20" className="mt-[-.2px]"/>
-                          </div>
-                          <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
-                          26 mi de visualizações há 4 anos
-                          </div>
-                        </div>
-                      </div>
-                    </a>
-                    {/* Aqui termina um vídeo */}
-                    {/* Aqui começa um vídeo */}
-                    <a href="#" className='rounded gap-4 group'>
-                      <img className="rounded-xl" src="/thumb2.png" width={500} height={500} alt="VideoThumb"/>
-                      <div className="flex gap-2 mt-3">
-                        <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
-                        <div className="">
-                          <div className="title flex gap-8">
-                            <strong>HOW TO TALK TO A BABY.</strong>
-                            <MoreVertical size="20" className="mt-[2px] invisible group-hover:visible"/>
-                          </div>
-                          <div className="flex gap-1 text-zinc-400 font-medium text-sm">
-                            How to DAD
-                            <BadgeCheck size="20" className="mt-[-.2px]"/>
-                          </div>
-                          <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
-                          26 mi de visualizações há 4 anos
-                          </div>
-                        </div>
-                      </div>
-                    </a>
-                    {/* Aqui termina um vídeo */}
-                    {/* Aqui começa um vídeo */}
-                    <a href="#" className='rounded gap-4 group'>
-                      <img className="rounded-xl" src="/thumb2.png" width={500} height={500} alt="VideoThumb"/>
-                      <div className="flex gap-2 mt-3">
-                        <img className="rounded-full w-10 h-10" src="/eu.png" width={30} height={30} alt="ChannelPhoto"/>
-                        <div className="">
-                          <div className="title flex gap-8">
-                            <strong>HOW TO TALK TO A BABY.</strong>
-                            <MoreVertical size="20" className="mt-[2px] invisible group-hover:visible"/>
-                          </div>
-                          <div className="flex gap-1 text-zinc-400 font-medium text-sm">
-                            How to DAD
-                            <BadgeCheck size="20" className="mt-[-.2px]"/>
-                          </div>
-                          <div className="mt-[-2px] text-zinc-400 font-medium text-sm">
-                          26 mi de visualizações há 4 anos
+                          112 mil de visualizações • há 1 dia
                           </div>
                         </div>
                       </div>
