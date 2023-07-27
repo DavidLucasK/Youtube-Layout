@@ -2,7 +2,7 @@ import {Home as HomeIcon, PlaySquare, Clock, ThumbsUp, ChevronDown, Youtube, Mon
 
 export default function AsidebarBottom () {
     return (
-        <ul className="bg-zinc-950/90 px-3 pt-1 w-56">
+        <ul className="bg-zinc-950/90 px-3 pt-1 w-64">
             <a href="">
                 <li className="bg-zinc-800/75 rounded-xl text-zinc-100 text-sm font-semibold flex items-center h-10 gap-7 px-3 hover:bg-zinc-700/75 hover:rounded-xl">
                     <HomeIcon size="22"/>
