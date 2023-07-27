@@ -129,7 +129,7 @@ export default function Home() {
                 <div className="bg-zinc-950 text-zinc-100 mr-12">
                   <div className="grid grid-cols-5 gap-4 mt-4 ml-8">
                     {/* Aqui começa um vídeo */}
-                    <a href="#" className='rounded gap-4 group'>
+                    <a href="https://www.youtube.com/watch?v=U1gMVr_zDPs" className='rounded gap-4 group'>
                       <img className="rounded-xl" src="/thumb2.png" width={500} height={500} alt="VideoThumb"/>
                       <div className="flex gap-2 mt-3">
                         <img className="rounded-full w-10 h-10" src="dev.png" width={30} height={30} alt="ChannelPhoto"/>
@@ -149,7 +149,7 @@ export default function Home() {
                     </a>
                     {/* Aqui termina um vídeo */}
                     {/* Aqui começa um vídeo */}
-                    <a href="#" className='rounded gap-4 group'>
+                    <a href="https://www.youtube.com/watch?v=cH4Ou9g_cfE" className='rounded gap-4 group'>
                       <img className="rounded-xl" src="/thumb1.png" width={500} height={500} alt="VideoThumb"/>
                       <div className="flex gap-2 mt-3">
                         <img className="rounded-full w-10 h-10" src="casimito.png" width={30} height={30} alt="ChannelPhoto"/>
@@ -170,7 +170,7 @@ export default function Home() {
                     </a>
                     {/* Aqui termina um vídeo */}
                     {/* Aqui começa um vídeo */}
-                    <a href="#" className='rounded gap-4 group'>
+                    <a href="https://www.youtube.com/watch?v=0zl72thBKzo" className='rounded gap-4 group'>
                       <img className="rounded-xl" src="/thumb3.png" width={500} height={500} alt="VideoThumb"/>
                       <div className="flex gap-2 mt-3">
                         <img className="rounded-full w-10 h-10" src="rocketseat.png" width={30} height={30} alt="ChannelPhoto"/>
@@ -191,7 +191,7 @@ export default function Home() {
                     </a>
                     {/* Aqui termina um vídeo */}
                     {/* Aqui começa um vídeo */}
-                    <a href="#" className='rounded gap-4 group'>
+                    <a href="https://www.youtube.com/watch?v=UYjIe3JbM8g" className='rounded gap-4 group'>
                       <img className="rounded-xl" src="/thumb4.png" width={500} height={500} alt="VideoThumb"/>
                       <div className="flex gap-2 mt-3">
                         <img className="rounded-full w-10 h-10" src="casimito.png" width={30} height={30} alt="ChannelPhoto"/>
@@ -212,7 +212,7 @@ export default function Home() {
                     </a>
                     {/* Aqui termina um vídeo */}
                     {/* Aqui começa um vídeo */}
-                    <a href="#" className='rounded gap-4 group'>
+                    <a href="https://www.youtube.com/watch?v=qsojKSYk330&t=2s" className='rounded gap-4 group'>
                       <img className="rounded-xl" src="/thumb5.png" width={500} height={500} alt="VideoThumb"/>
                       <div className="flex gap-2 mt-3">
                         <img className="rounded-full w-10 h-10" src="podpah.png" width={30} height={30} alt="ChannelPhoto"/>
