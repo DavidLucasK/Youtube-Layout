@@ -2,8 +2,7 @@ import {Home as HomeIcon, PlaySquare, Clock, ThumbsUp, ChevronDown, Youtube, Mon
 
 export default function AsidebarBottom () {
     return (
-        <div className="flex">
-          <ul className="bg-zinc-950/90 px-3 pt-1 w-56">
+        <ul className="bg-zinc-950/90 px-3 pt-1 w-56">
             <a href="">
                 <li className="bg-zinc-800/75 rounded-xl text-zinc-100 text-sm font-semibold flex items-center h-10 gap-7 px-3 hover:bg-zinc-700/75 hover:rounded-xl">
                     <HomeIcon size="22"/>
@@ -22,7 +21,7 @@ export default function AsidebarBottom () {
                 <a href="">Inscrições</a>
                 </li>
             </a>
-            <div className="border mt-3 mb-3"></div>
+            <div className="border-t mt-3 mb-3 border-zinc-500"></div>
             <a href="">
                 <li className="text-zinc-100 text-sm font-semibold flex items-center h-10 gap-7 px-3 hover:bg-zinc-800/75 hover:rounded-xl">
                     <MonitorPlay size="22"/>
@@ -59,7 +58,7 @@ export default function AsidebarBottom () {
                     Mostrar mais
                 </li>
             </a>
-            <div className="border mt-3 mb-3 ml-[-10px]"></div>
+            <div className="border-t mt-3 mb-3 ml-[-10px] border-zinc-500"></div>
             <a href="">
                 <li className="text-zinc-100 font-semibold flex items-center gap-7 px-3 text-lg mb-1">
                     Inscrições
@@ -113,7 +112,7 @@ export default function AsidebarBottom () {
                     Mostrar mais 455
                 </li>
             </a>
-            <div className="border mt-3 mb-3 ml-[-10px]"></div>
+            <div className="border mt-3 mb-3 ml-[-10px] border-zinc-500"></div>
             <li className="text-zinc-100 font-semibold flex items-center gap-7 px-3 text-lg mb-1">
               Explorar
             </li>
@@ -124,6 +123,5 @@ export default function AsidebarBottom () {
                 </li>
             </a>
           </ul>
-        </div>
     )
 }
